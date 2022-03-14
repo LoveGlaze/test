@@ -9,7 +9,7 @@
 ----
 
 <div align="center">
-<audio src="https://lovekevin.top/p/%E4%B8%BB%E9%A1%B5/%E8%B5%96%E4%BC%9F%E9%94%8B%20-%20%E4%B8%80%E4%B8%AA%E5%A4%87%E8%83%8E%E8%80%8C%E5%B7%B2.mp3" controls="controls" loop="loop" autoplay="autoplay" id="audio">
+<audio src="https://lovekevin.top/p/%E4%B8%BB%E9%A1%B5/%E8%B5%96%E4%BC%9F%E9%94%8B%20-%20%E4%B8%80%E4%B8%AA%E5%A4%87%E8%83%8E%E8%80%8C%E5%B7%B2.mp3" controls="controls" loop="loop" autoplay="autoplay" preload="true">
 </div>
 
 
